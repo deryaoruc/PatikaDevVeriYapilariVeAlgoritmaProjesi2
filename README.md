@@ -1,0 +1,2 @@
+# PatikaDevVeriYapilariVeAlgoritmaProjesi2
+Merge Sort Projesi
